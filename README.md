@@ -2,5 +2,5 @@
 
 ## Usage
 
-`tsc hostname.example.org`
+`atx hostname.example.org`
 
